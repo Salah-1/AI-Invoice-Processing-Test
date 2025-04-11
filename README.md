@@ -2,6 +2,7 @@
 AI Invoice Processing Test (evaluating different solutions by the 3 cloud providers).
 
 ## Overview
+#### For the impatient: look at the /src/ folder
 
 AI-driven project to automatically process invoices, extract key business values, store and generate  reports. Extracted information is saved into `.csv` format for downstream processing.
 
